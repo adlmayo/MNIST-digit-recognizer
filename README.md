@@ -1,2 +1,2 @@
-# face-detection-and-blur-with-opencv
-Face detection and blur with OpenCV
+# MNIST-digit-recognizer
+MNIST digit recognizer
